@@ -1,11 +1,11 @@
-import React from 'react';
-import Setup from './tutorial/1-useState/setup/4-useState-object';
+import React from "react";
+import Setup from "./tutorial/1-useState/birthday-reminder/birthday-reminder";
 function App() {
   return (
-    <div className='container'>
+    <div className="container">
       <Setup />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
